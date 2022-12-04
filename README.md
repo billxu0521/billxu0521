@@ -1,4 +1,4 @@
-<center>### Hello I'm billxu0521</center>
+<p>### Hello I'm billxu0521</p>
 
 <!--
 **billxu0521/billxu0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
