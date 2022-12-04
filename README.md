@@ -1,5 +1,15 @@
-<p>### Hello I'm billxu0521</p>
 
+  
+<h1 align="center">Hello, I'm billxu0521
+ <br><br>
+<h2 align="center">you can also call me: 橫隔膜/halami
+  
+<br/>
+  <img src="https://komarev.com/ghpvc/?username=billxu0521&style=for-the-badge"> 
+
+</h2>
+  </h1>
+  
 <!--
 **billxu0521/billxu0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=billxu0521" />
 
 
@@ -22,3 +33,4 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=billxu0521" />
+</p>
