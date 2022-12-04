@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://github-profile-trophy.vercel.app/?username=billxu0521" />
+
+
 <img src="https://streak-stats.demolab.com/?user=billxu0521" />
 
 
