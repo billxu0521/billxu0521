@@ -73,11 +73,6 @@
   
 </p>
 
-<h2 align="center">My Github Trophy:</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=billxu0521" />
-</p>
 <h2 align="center">⭐️ My Github Streak Stats:</h2>
 
 <p align="center">
