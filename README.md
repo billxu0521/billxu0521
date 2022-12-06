@@ -69,13 +69,20 @@
    <img alt="Azure" src="https://img.shields.io/badge/azuredevops-007FFF?style=for-the-badge&logo=azuredevops&logoColor=white" />
   
 </p>
+<h2 align="center">⭐️ Most Used Language:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billxu0521&layout=compact" />
+
+</p>
+
 
 <h2 align="center">⭐️ My Github Streak Stats:</h2>
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=billxu0521" />
 </p>
 <h2 align="center">⭐️ My Github Stats:</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=billxu0521" />
+<img src="https://github-readme-stats.vercel.app/api?username=billxu0521&show_icons=true" />
 </p>
