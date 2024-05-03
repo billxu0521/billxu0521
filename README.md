@@ -10,9 +10,9 @@
 </h1>
  
 <p align="center">
-我是一名前端開發者，學生時期碰到C++被嚇得半死以為這輩子對程式沒天份，但接觸到了WEB後覺得還是可以做點什麼XDDD  喜歡學習新的技術與解決問題，熱愛用探索、分享與創造價值。
+我是一名自由工作者，專攻網路資訊領域，擁有豐富的網站系統開發和設計經驗，希冀以技術為現實事物帶來價值。喜歡解決問題，但又容易因為困難而變得厭世:P是一個在滿足與苦痛間掙扎的平凡開發者。
   <br>
-  I am a front-end developer. When I was a student, I was scared to death when I encountered C++. I thought that I would not be talented in programming in this life, but after I came into contact with the web, I felt that I could do something. :P I like to learn new technologies and solve problems, and I love to use exploration , Share and create value.
+Hello, I'm a freelance professional specializing in the field of web information. With extensive experience in website system development and design, I aim to bring value to real-world entities through technology. I enjoy problem-solving but can also become world-weary when faced with challenges. I'm an ordinary developer struggling between satisfaction and agony.
 </p>
 
 - [My Website](https:/billxu.net/)
@@ -26,6 +26,7 @@
  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
  <img alt="Vue3" src="https://img.shields.io/badge/Vue3-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+ <img alt="Nuxt3" src="https://img.shields.io/badge/nuxt3.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
  <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" />
  <img alt="Node JS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -33,7 +34,9 @@
  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
  <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/azuredevops-007FFF?style=for-the-badge&logo=azuredevops&logoColor=white" />
+ <img alt="Azure" src="https://img.shields.io/badge/azuredevops-007FFF?style=for-the-badge&logo=azuredevops&logoColor=white" />
+ <img alt="AWS" src="https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+
 </p>
 
 
