@@ -34,7 +34,6 @@ Hello, I'm a freelance professional specializing in the field of web information
  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
  <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
- <img alt="Azure" src="https://img.shields.io/badge/azuredevops-007FFF?style=for-the-badge&logo=azuredevops&logoColor=white" />
  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
 
 </p>
@@ -48,6 +47,7 @@ Hello, I'm a freelance professional specializing in the field of web information
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img alt="Vue3" src="https://img.shields.io/badge/Vue3-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img alt="Nuxt3" src="https://img.shields.io/badge/nuxt3.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
    <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -70,6 +70,8 @@ Hello, I'm a freelance professional specializing in the field of web information
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
    <img alt="Azure" src="https://img.shields.io/badge/azuredevops-007FFF?style=for-the-badge&logo=azuredevops&logoColor=white" />
+   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white" />
   
 </p>
 <h2 align="center">⭐️ Most Used Language:</h2>
@@ -77,7 +79,6 @@ Hello, I'm a freelance professional specializing in the field of web information
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billxu0521&layout=compact" />
 
 </p>
-
 
 <h2 align="center">⭐️ My Github Streak Stats:</h2>
 
