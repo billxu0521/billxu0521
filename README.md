@@ -1,9 +1,9 @@
 
   
-<h1 align="center">Hello, I'm billxu0521
+<h1 align="center">Hello, I'm Chih-Fan 
   <br>
   <br>
-  <h2 align="center">you can also call me: 橫隔膜/halami
+  <h2 align="center">or you can also call me: 橫隔膜/halami
     <br/>
     <img src="https://komarev.com/ghpvc/?username=billxu0521&style=for-the-badge"> 
   </h2>
